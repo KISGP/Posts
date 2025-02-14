@@ -1,8 +1,3 @@
----
-title: JS笔记
-tags:
-  - JS
----
 # JS 修改原数组
 
 ```js
